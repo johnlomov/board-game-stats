@@ -1,7 +1,7 @@
 {
-  "name": "webpack-template",
+  "name": "board-game-statistics",
   "version": "1.0.0",
-  "description": "Webpack template",
+  "description": "Board game statistics application",
   "main": "src/index.js",
   "author": "Evgeny Lomov <johnlomov@gmail.com>",
   "scripts": {
